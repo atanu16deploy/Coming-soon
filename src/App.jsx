@@ -18,9 +18,7 @@ function App() {
       </div>
       <h1>Coming soon</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
+        {/*  KOI COUNTER ADD NHI KREGA ... BAHUT IRRITATING FEATURE HAI */}
         <p>
           The site you want to access is under development and has not been
           released yet.
